@@ -18,3 +18,4 @@ predict result. using these code to test success or not
 python client.py  --file=filename
 
 ```
+More detail information please go to https://zhuanlan.zhihu.com/p/83894642

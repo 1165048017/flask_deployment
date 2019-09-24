@@ -15,6 +15,6 @@ this python file will be runed in client, it will upload a image to server and g
 predict result. using these code to test success or not
 
 ```python
-python client.py --file=
+python client.py --file=filename
 
 ```
